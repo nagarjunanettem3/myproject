@@ -54,7 +54,7 @@ to set your account's default identity.
 Omit --global to set the identity only in this repository.
 
 fatal: unable to auto-detect email address (got 'edureka@kmaster.(none)')
-edureka@kmaster:~/Downloads/project$ git config --global user.email "nagarjuna.nettem@tcs.com"
+edureka@kmaster:~/Downloads/project$ git config --global user.email "rjuaga"
 edureka@kmaster:~/Downloads/project$ git  config --global user.name "nagarjuna nettem"
 edureka@kmaster:~/Downloads/project$ git staus
 git: 'staus' is not a git command. See 'git --help'.
